@@ -1,2 +1,4 @@
-# harvard_science_5_2022
-Harvard Science 5 (2022)
+## *An Introduction to Computation for Science* (Science 5 Spring 2022)
+
+Welcome the course website for Science 5!
+
